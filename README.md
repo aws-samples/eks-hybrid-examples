@@ -1,11 +1,10 @@
-## My Project
+# EKS Hybrid Examples
 
-TODO: Fill this README out!
+This repository contains examples for using EKS Hybrid Nodes and EKS Anywhere
 
-Be sure to:
+## Contents
 
-* Change the title in this README
-* Edit your repository description on GitHub
+- [network-disconnections](network-disconnections): contains information about testing EKS Hybrid Nodes through network disconnections
 
 ## Security
 
