@@ -1,6 +1,6 @@
 # EKS Hybrid Nodes Network Testing
 
-This repository contains the setup and test procedures used to test EKS Hybrid Nodes through network disconnections as detailed in the EKS Best Practices Guide.
+This directory contains the setup and test procedures used to test EKS Hybrid Nodes through network disconnections as detailed in the EKS Best Practices Guide.
 
 ## Contents
 
