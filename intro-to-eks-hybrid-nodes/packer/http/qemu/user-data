@@ -1,0 +1,10 @@
+#cloud-config
+ssh_pwauth: true
+users:
+  - name: ubuntu
+    # openssl passwd -6 -stdin <<< ubuntu
+    passwd: $6$XsKGcbE/EtBsxkGx$ik/CVyFLt4GVtvvM6J4nc50VdN3PwaNpaTAyE6FDGydh9uXRYeKnDa2ai37fU840H0dzXuG/s.VBET9FxhVh1/
+    groups: [adm, cdrom, dip, plugdev, lxd, sudo]
+    lock-passwd: false
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    shell: /bin/bash
