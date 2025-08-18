@@ -6,6 +6,7 @@ This repository contains examples for using EKS Hybrid Nodes and EKS Anywhere
 
 - [intro-to-eks-hybrid-nodes](intro-to-eks-hybrid-nodes): contains information about the basic deployment of EKS Hybrid Nodes using CDK and Packer
 - [network-disconnections](network-disconnections): contains information about testing EKS Hybrid Nodes through network disconnections
+- [calico-cni](calico-cni): contains installation and upgrade instructions for using Calico with EKS Hybrid Nodes
 
 ## Security
 
